@@ -1,6 +1,7 @@
 # rca-trident-works
 <small>このOrganizationは学校の公式では**ありません**</small>
 
+<!--
 ## Repositories
 - rca-trident-works/JavaBasic
   - 2023年度Java基礎の授業課題など
@@ -12,3 +13,5 @@
 - 生徒であれば閲覧権限を付与します(Githubアカウント必須)
 - 削除指示などはアカウントに登録しているメールアドレスから受け付けます.
 - 申し立てなどがあった場合、個人の判断において一部または全てをPrivateに変更, 削除する場合があります
+
+-->
